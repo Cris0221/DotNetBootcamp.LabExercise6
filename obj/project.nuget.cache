@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Md1wRrlI56gDT7ZfSOWby0HKFQwYJ7zCEry7+tVN39KtBES8SozaB4VNojPxO+vkUDxHdl1FcFnz8g97Fc75Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristobal.fragata\\source\\repos\\CSharp.LabExercise6\\CSharp.LabExercise6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristobal.fragata\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
